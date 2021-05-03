@@ -1,0 +1,48 @@
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Business\obj\Debug\netcoreapp3.1\Business.pdb

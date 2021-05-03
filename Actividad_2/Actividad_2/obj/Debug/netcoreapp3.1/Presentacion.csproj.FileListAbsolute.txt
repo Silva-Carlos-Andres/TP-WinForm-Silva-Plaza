@@ -1,0 +1,7 @@
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Presentacion.csprojAssemblyReference.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Form1.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Presentacion.Properties.Resources.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Presentacion.csproj.GenerateResource.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache

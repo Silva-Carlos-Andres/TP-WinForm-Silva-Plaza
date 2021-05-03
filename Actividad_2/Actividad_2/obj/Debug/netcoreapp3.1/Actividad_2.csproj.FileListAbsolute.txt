@@ -1,0 +1,116 @@
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.exe
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.deps.json
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.json
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.dev.json
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csprojAssemblyReference.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Form1.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Properties.Resources.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.GenerateResource.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfoInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfo.cs
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CoreCompileInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.genruntimeconfig.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CopyComplete
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Lista.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Buscar.resources
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.exe
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.deps.json
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.json
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.dev.json
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Buscar.resources
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Form1.resources
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Lista.resources
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Properties.Resources.resources
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfo.cs
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CopyComplete
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\valen\Desktop\Actividades Programacion3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.exe
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.deps.json
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.json
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.dev.json
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Buscar.resources
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Form1.resources
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Lista.resources
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Properties.Resources.resources
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.GenerateResource.cache
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CopyComplete
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\Valentin\Desktop\Actividad 2 Prog 3\ProgramacionIIIActividades\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.genruntimeconfig.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.exe
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.deps.json
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.json
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.dev.json
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csprojAssemblyReference.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Buscar.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Form1.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Lista.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.Properties.Resources.resources
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.GenerateResource.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfoInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfo.cs
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CoreCompileInputs.cache
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CopyComplete
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\es-acasilva\OneDrive - AXIONLOG\FRGP\5° Cuatrimestre\Programacion 3\Actividad 2\Nuevas Versiones\Actividad 2\Actividad_2\Actividad_2\obj\Debug\netcoreapp3.1\Actividad_2.genruntimeconfig.cache
